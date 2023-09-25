@@ -1,0 +1,135 @@
+[
+{
+ "id":"1",
+ "Image": "https://i.ibb.co/Yfkv0m7/Health.png",
+ "Title": "Health",
+  "Category": "Clean water for children",
+  "Price": "$999.99",
+  "category_bg":"#0052FF",
+  "card_bg":"#0052FF26",
+  "text_button_bg":"#0052FF",
+  "Description": "Good health is central to handling stress and living a longer, more active life. In this article, we explain the meaning of good health, the types of health a person needs to consider, and how to preserve good health."
+},
+{
+"id":"2",                            
+  "Image": "https://i.ibb.co/XkK731D/Education.png",
+  "Title": "Education",
+  "Category": "Good education",
+  "category_bg":"#FF444A",
+  "card_bg":"#FF444A",
+  "text_button_bg":"#FF444A",
+  "Price": "$799.00",
+  "Description": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve."
+},
+{
+"id":"3",                            
+  "Image": "https://i.ibb.co/DD4Td9n/Clothing.png",
+  "Title": "Clothing",
+  "Category": "Used Clothing Drive",
+  "category_bg":"#79C23F",
+  "card_bg":"#79C23F",
+  "text_button_bg":"#FF444A",
+  "Price": "$149.99",
+  "Description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environmen."
+},
+{
+"id":"4",                            
+  "Image": "https://i.ibb.co/wMnwLM8/Food.png",
+  "Title": "Food",
+  "Category": "Better Food for Everyone",
+  "category_bg":"#F87147",
+  "card_bg":"#F87147",
+  "text_button_bg":"#F87147",
+  "Price": "$699.00",
+  "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals."
+},
+{
+   "id":"5",                            
+  "Image": "https://i.ibb.co/wMnwLM8/Food.png",
+  "Title": "Food",
+  "Category": "Better Food for Everyone",
+  "category_bg":"#F87147",
+  "card_bg":"#F87147",
+  "text_button_bg":"#F87147",
+  "Price": "$79.99",
+  "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals.."
+},
+{
+ "id":"6",
+  "Image": "https://i.ibb.co/DD4Td9n/Clothing.png",
+  "Title": "Clothing",
+  "Category": "Used Clothing Drive",
+  "category_bg":"#79C23F",
+  "card_bg":"#79C23F",
+  "text_button_bg":"#79C23F",
+  "Price": "$299.00",
+  "Description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environmen"
+},
+{
+ "id":"7",
+  "Image": "https://i.ibb.co/XkK731D/Education.png",
+  "Title": "Education",
+  "Category": "Good education",
+  "category_bg":"#FF444A",
+  "card_bg":"#FF444A",
+  "text_button_bg":"#FF444A",
+    "Price": "$449.99",
+  "Description": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve."
+},
+{
+"id":"8",
+  "Image": "https://i.ibb.co/Yfkv0m7/Health.png",
+  "Title": "Health",
+  "Category": "Clean water for children",
+  "category_bg":"#0052FF",
+  "card_bg":"#0052FF26",
+  "text_button_bg":"#0052FF",
+  "Price": "$299.99",
+  "Description": "Good health is central to handling stress and living a longer, more active life. In this article, we explain the meaning of good health, the types of health a person needs to consider, and how to preserve good health."
+},
+{
+"id":"9",                             
+  "Image": "https://i.ibb.co/Yfkv0m7/Health.png",
+  "Title": "Health",
+  "Category": "Clean water for children",
+  "category_bg":"#0052FF",
+  "card_bg":"#0052FF26",
+  "text_button_bg":"#0052FF",
+  "Price": "$59.99",
+  "Description": "Good health is central to handling stress and living a longer, more active life. In this article, we explain the meaning of good health, the types of health a person needs to consider, and how to preserve good health."
+},
+{
+ "id":"10",                           
+  "Image": "https://i.ibb.co/XkK731D/Education.png",
+  "Title": "Education",
+  "Category": "Good education",
+  "category_bg":"#FF444A",
+  "card_bg":"#FF444A",
+  "text_button_bg":"#FF444A",
+  "Price": "$249.00",
+  "Description": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve."
+},
+{
+ "id":"11",
+ "Image": "https://i.ibb.co/DD4Td9n/Clothing.png",
+  "Title": "Clothing",
+  "Category": "Used Clothing Drive",
+  "category_bg":"#79C23F",
+  "card_bg":"#79C23F",
+  "text_button_bg":"#FF444A",
+  "Price": "$129.00",
+  "Description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environmen."
+},
+{
+   "id":"12",
+  "Image": "https://i.ibb.co/wMnwLM8/Food.png",
+  "Title": "Food",
+  "Category": "Better Food for Everyone",
+  "category_bg":"#F87147",
+  "card_bg":"#F87147",
+  "text_button_bg":"#F87147",
+  "Price": "$199.99",
+  "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals."
+}
+]
+                            
