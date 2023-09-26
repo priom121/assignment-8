@@ -24,7 +24,8 @@ const myCreateRoute = createBrowserRouter ([
             } ,
            {
               path:'/statistics',
-              element:<Statistics></Statistics>                
+              element:<Statistics></Statistics>,
+                             
            },
            {
             path:'/allCards/:id',
