@@ -16,7 +16,7 @@
   "Title": "Education",
   "Category": "Good education",
   "category_bg":"#FF444A",
-  "card_bg":"#FF444A",
+  "card_bg":"#FF444A44",
   "text_button_bg":"#FF444A",
   "Price": "$799.00",
   "Description": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve."
@@ -27,8 +27,8 @@
   "Title": "Clothing",
   "Category": "Used Clothing Drive",
   "category_bg":"#79C23F",
-  "card_bg":"#79C23F",
-  "text_button_bg":"#FF444A",
+  "card_bg":"#79C23F23",
+  "text_button_bg":"#79C23F",
   "Price": "$149.99",
   "Description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environmen."
 },
@@ -38,7 +38,7 @@
   "Title": "Food",
   "Category": "Better Food for Everyone",
   "category_bg":"#F87147",
-  "card_bg":"#F87147",
+  "card_bg":"#F8714747",
   "text_button_bg":"#F87147",
   "Price": "$699.00",
   "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals."
@@ -49,7 +49,7 @@
   "Title": "Food",
   "Category": "Better Food for Everyone",
   "category_bg":"#F87147",
-  "card_bg":"#F87147",
+  "card_bg":"#F8714747",
   "text_button_bg":"#F87147",
   "Price": "$79.99",
   "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals.."
@@ -60,7 +60,7 @@
   "Title": "Clothing",
   "Category": "Used Clothing Drive",
   "category_bg":"#79C23F",
-  "card_bg":"#79C23F",
+  "card_bg":"#79C23F23",
   "text_button_bg":"#79C23F",
   "Price": "$299.00",
   "Description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environmen"
@@ -71,7 +71,7 @@
   "Title": "Education",
   "Category": "Good education",
   "category_bg":"#FF444A",
-  "card_bg":"#FF444A",
+  "card_bg":"#FF444A44",
   "text_button_bg":"#FF444A",
     "Price": "$449.99",
   "Description": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve."
@@ -104,7 +104,7 @@
   "Title": "Education",
   "Category": "Good education",
   "category_bg":"#FF444A",
-  "card_bg":"#FF444A",
+  "card_bg":"#FF444A44",
   "text_button_bg":"#FF444A",
   "Price": "$249.00",
   "Description": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve."
@@ -115,7 +115,7 @@
   "Title": "Clothing",
   "Category": "Used Clothing Drive",
   "category_bg":"#79C23F",
-  "card_bg":"#79C23F",
+  "card_bg":"#79C23F23",
   "text_button_bg":"#FF444A",
   "Price": "$129.00",
   "Description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environmen."
@@ -126,7 +126,7 @@
   "Title": "Food",
   "Category": "Better Food for Everyone",
   "category_bg":"#F87147",
-  "card_bg":"#F87147",
+  "card_bg":"#F8714747",
   "text_button_bg":"#F87147",
   "Price": "$199.99",
   "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals."
