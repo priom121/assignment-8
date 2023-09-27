@@ -7,7 +7,9 @@ const Statistics = () => {
     const [pie , setPie] =useState([]);
     useEffect(()=>{
         const donates = JSON.parse(localStorage.getItem('donation'));
-        setPie(donates)
+        if(donates){
+            setPie(donates)
+        }
     },[])
     const totalDonation = 12 - pie.length ;
     const yourDonation = pie.length

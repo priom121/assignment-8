@@ -1,8 +1,9 @@
+import LogoImage from "../Navbar/image/Logo.png"
 
-const Logo = () => {
+const Logo = () => { 
 return (
  <div>
-     <img src="./public/Resources/Logo.png"></img>                                                         
+     <img src={LogoImage}></img>                                                         
  </div>
   );
 };
