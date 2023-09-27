@@ -2,14 +2,15 @@
 const DonateCard = ({donate}) => {
  const {id,Image,Title,Category,Price,category_bg,card_bg,text_button_bg}= donate 
  return (
-<div className="mt-20  ">
-<div style={{backgroundColor:card_bg}} className="relative flex flex-1 lg:flex-row w-full max-w-[48rem]  rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
-  <div className="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
+<div className="mt-20  mx-auto  ">
+<div style={{backgroundColor:card_bg}} className="relative   grid grid-cols-1 lg:grid-cols-2 rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+  <div className="relative m-0 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
     <img
       src={Image}
       alt="image"
       className="h-full w-full object-cover"
     />
+{/* flex flex-1 lg:flex-row  w-full max-w-[48rem] */}
   </div>
   <div className="p-6">
     <h6 style={{color:text_button_bg}} className="mb-4 block font-sans text-base font-bold uppercase text-white leading-relaxed tracking-normal  antialiased">

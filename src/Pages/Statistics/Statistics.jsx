@@ -16,7 +16,9 @@ const Statistics = () => {
     return (
         <div className="flex  justify-center items-center h-[80vh]">
             <Chart  chartType="PieChart" width={"100%"}
-      height={"500px"} data={[
+      height={"500px"}
+      loader={<div>Loading Chart</div>}
+      data={[
         ["donate" , "value"],
         ["Total Donation" , totalDonation],
         ["Your Donation" , yourDonation]

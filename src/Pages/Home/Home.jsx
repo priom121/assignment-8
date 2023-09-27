@@ -8,7 +8,7 @@ const Home = () => {
      // console.log(cards);
 return (
  <div>
-      <Banner></Banner>
+      <Banner cards={cards}></Banner>
        <AllCards cards={cards}></AllCards>                                                                               
  </div>
  );

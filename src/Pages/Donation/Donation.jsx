@@ -21,9 +21,15 @@ const Donation = () => {
           // donation.map(donate=><DonateCard key={donate.id} donate={donate}></DonateCard>)
      } 
    </div>
+   {
+     donation.length > 4 &&  <button onClick={()=>setShow(!show)} className= "px-3 py-3 block mx-auto rounded mt-5 bg-green-500">
+     {show ? "see less" :"see more" }
+     </button>
+   }
  
-     <button onClick={()=>setShow(!show)} className= "px-3 py-3 block mx-auto rounded mt-5 bg-green-500">
-          Show more</button>
+     {/* <button onClick={()=>setShow(!show)} className= "px-3 py-3 block mx-auto rounded mt-5 bg-green-500">
+          {show ? "see less" :"see more" }
+          </button> */}
                                                                                 
  </div>
  );
